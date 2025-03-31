@@ -1,0 +1,3 @@
+[submodule "extern/eRPC"]
+	path = extern/eRPC
+	url = git@github.com:erpc-io/eRPC
